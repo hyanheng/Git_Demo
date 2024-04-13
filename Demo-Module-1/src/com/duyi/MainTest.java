@@ -5,6 +5,7 @@ public class MainTest {
         System.out.println("hello git111");
 
         System.out.println(6);
+        System.out.println(7);
 
 
     }
